@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="Jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="Jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="Jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="Jar/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="Jar/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="Jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="Jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="Jar/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="Jar/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="Jar/velocity-1.4.jar"/>
+	<classpathentry kind="lib" path="Jar/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="Jar/velocity-dep-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
